@@ -4,14 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace buoi1
+namespace bai2
 {
+
+    static void giaiPTB1(double a, double b)
+    {
+        
+    }
+
+    static void giaiPTB2(double a, double b, double c)
+    {
+
+    }
+
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World");
-            Console.ReadKey();
+            giaiPTB2(1, 2, 3);
         }
     }
 }
